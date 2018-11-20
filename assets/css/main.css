@@ -16,9 +16,9 @@
 	body {
 		line-height: 1;
 	}
-	.logohead img {
+	/*.logohead img {
     border-radius: 50%;
-}
+}*/
 	ol, ul {
 		list-style: none;
 	}
